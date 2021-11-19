@@ -7,7 +7,7 @@ This project was created for MySQL's default world schema.
 ---
 ### Step 1 - Generate Spring
 ![Image](https://i.imgur.com/Oo1yU0Z.png)
-#####---->   [Spring initializr](https://start.spring.io/)
+--->   [Spring initializr](https://start.spring.io/)
 ---
 ## Step 2 - MySQL Connection Configuration
 >application.properties
